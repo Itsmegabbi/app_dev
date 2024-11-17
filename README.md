@@ -1,10 +1,10 @@
 # app_dev
 My first repository
-#MY FAVORITE TV SERIES
+#MY FAVORITE MOVUES
 ## ACTION/ROMANCE
 
 **FROM NETFLIX**
-1. Money Heist
-2. Outer Banks
+1. John wick   
+2. Fast and the Furious
 
    
